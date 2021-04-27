@@ -46,7 +46,7 @@ module "my_workspace_1" {
   ]
 
   notification                  = false
-
+}
 ```
 
 Workspace **with** notification example: 
